@@ -4,20 +4,20 @@
  *This is progrem calculates the SimpleEncryption.
  */
 
-package palindrome2;
-
 import javax.swing.JOptionPane;
+
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
 
 /**
  *
  * @author clkon
  */
-public class Palindrome2 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
+public class SimpleEncryption {
+     public static void main(String[] args) {
         String sentence,newsentence,number,direction;
         int number1,unicode,unicode1;     
         //sentence represent the phrase people enter
@@ -76,3 +76,5 @@ public class Palindrome2 {
     
 }
 }
+
+
